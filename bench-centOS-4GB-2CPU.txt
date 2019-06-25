@@ -1,0 +1,17 @@
+[H[J----------------------------------------------------------------------
+CPU model            : [0;36mIntel(R) Core(TM) i5-4210U CPU @ 1.70GHz[0m
+Number of cores      : [0;36m2[0m
+CPU frequency        : [0;36m2394.458 MHz[0m
+Total size of Disk   : [0;36m27.0 GB (1.7 GB Used)[0m
+Total amount of Mem  : [0;36m3789 MB (124 MB Used)[0m
+Total amount of Swap : [0;36m3071 MB (0 MB Used)[0m
+System uptime        : [0;36m0 days, 0 hour 23 min[0m
+Load average         : [0;36m0,02, 0,30, 0,47[0m
+OS                   : [0;36mCentOS 7.6.1810[0m
+Arch                 : [0;36mx86_64 (64 Bit)[0m
+Kernel               : [0;36m3.10.0-957.el7.x86_64[0m
+----------------------------------------------------------------------
+I/O speed(1st run)   : [0;33m68.7 MB/s[0m
+I/O speed(2nd run)   : [0;33m45.3 MB/s[0m
+I/O speed(3rd run)   : [0;33m54.6 MB/s[0m
+Average I/O speed    : [0;33m56.2 MB/s[0m
