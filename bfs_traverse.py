@@ -77,7 +77,7 @@ def main():
    
 		final_time = (time.time() - start_time)
 		print(final_time)
-		with open("centOS_4GB_2CPU.txt", "a") as f:
+		with open("centOS_4GB_4CPU.txt", "a") as f:
 			f.write(str(final_time)+'\n')
 
 
