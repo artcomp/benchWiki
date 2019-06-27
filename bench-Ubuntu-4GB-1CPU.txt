@@ -1,0 +1,14 @@
+[3J[H[J----------------------------------------------------------------------
+-e CPU model            : [0;36mIntel(R) Core(TM) i5-4210U CPU @ 1.70GHz[0m
+-e Number of cores      : [0;36m1[0m
+-e CPU frequency        : [0;36m2394.458 MHz[0m
+-e Total size of Disk   : [0;36m GB ( GB Used)[0m
+-e Total amount of Mem  : [0;36m3945 MB (93 MB Used)[0m
+-e Total amount of Swap : [0;36m3944 MB (0 MB Used)[0m
+-e System uptime        : [0;36m0 days, 0 hour 1 min[0m
+-e Load average         : [0;36m1.21, 0.71, 0.27[0m
+-e OS                   : [0;36mUbuntu 18.04.2 LTS[0m
+-e Arch                 : [0;36mx86_64 (64 Bit)[0m
+-e Kernel               : [0;36m4.15.0-51-generic[0m
+----------------------------------------------------------------------
+-e I/O speed(1st run)   : [0;33m42.4 MB/s[0m
